@@ -7,7 +7,7 @@ from tkinter import *
 
 window = Tk() #instantiate an instance of a window
 window.geometry("420x420") #change size of window
-window.title("Xaydens Pro GUI")
+window.title("cookie clicker")
 window.config(background="white")
 
 
@@ -49,3 +49,7 @@ button.pack()
 
 
 window.mainloop() #place window on display, listen for events
+
+
+
+
